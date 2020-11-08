@@ -24,7 +24,11 @@ export default {
   name: 'app',
   data () {
     return {
+<<<<<<< HEAD
       msg: '我改成一'
+=======
+      msg: '我改成二'
+>>>>>>> 3b75c48 (我改成二)
     }
   }
 }
