@@ -25,7 +25,8 @@ export default {
   data () {
     return {
       msg: '我改成二',
-      test1: true
+      test1: true,
+      test2: true
     }
   }
 }
