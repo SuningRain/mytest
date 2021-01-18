@@ -26,7 +26,8 @@ export default {
     return {
       msg: '我改成二',
       test1: true,
-      test2: true
+      test2: true,
+      test3: true
     }
   }
 }
