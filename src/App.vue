@@ -24,7 +24,8 @@ export default {
   name: 'app',
   data () {
     return {
-      msg: '我改成二'
+      msg: '我改成二',
+      test1: true
     }
   }
 }
